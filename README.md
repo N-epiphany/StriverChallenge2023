@@ -11,9 +11,9 @@ The Striver Challenge is a highly competitive coding challenge designed to test 
 **Repository Structure**
 This repository follows a well-organized structure to ensure easy navigation and accessibility:
 
-  **problem statements** : This directory contains the daily coding problems provided as part of the Striver Challenge. Each problem is accompanied by a descriptive title and a detailed problem statement.
+  **1> problem statements** : This directory contains the daily coding problems provided as part of the Striver Challenge. Each problem is accompanied by a descriptive title and a detailed problem statement.
 
-  **solutions** : Here, you can find my solutions to the daily coding problems. Each solution is implemented in a separate file, following a clear and readable coding style.
+  **2> solutions** : Here, you can find my solutions to the daily coding problems. Each solution is implemented in a separate file, following a clear and readable coding style.
 
 **Commitment and Consistency**
 
